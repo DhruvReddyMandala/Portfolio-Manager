@@ -1,0 +1,12 @@
+frontend:
+    path: .o
+    publish: ii
+    scripts:
+        build:
+            - oo
+        deploy:
+            - pip install torch transformers flask
+    subdomain: arlowm
+name: arlowm
+region: us-east-1
+yamlVersion: 2
